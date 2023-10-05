@@ -1,4 +1,4 @@
-name: test Publish Docker image
+name: updated uname pwd Publish Docker image
 
 on:
   push:
